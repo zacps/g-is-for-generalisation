@@ -1,0 +1,11 @@
+.virtual_documents
+.ipynb_checkpoints
+*.pickle
+__pycache__
+logs
+*.png
+*.svg
+*.pdf
+checkpoint
+IDE_Data
+Other semester
